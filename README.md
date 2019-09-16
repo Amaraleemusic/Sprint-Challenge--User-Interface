@@ -48,7 +48,7 @@ Content. Padding. Border. Margin.
 
 4. The While using flexbox, what axis does the following property work on: ```align-items: center```?
 
-To center our box we use the align-items property to align our item on the cross axis
+To center our box we use the align-items property to align our item on the vertical axis 
 
 5. Explain why git is valuable to a team of developers.
 
